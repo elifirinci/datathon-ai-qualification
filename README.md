@@ -37,3 +37,6 @@ Max pooling layers for dimensionality reduction.
 A fully connected dense layer with dropout for regularization.
 
 Softmax activation for multi-class classification.
+
+## Result
+The model achieved an F1 score of 81
